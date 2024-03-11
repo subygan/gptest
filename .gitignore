@@ -1,0 +1,4 @@
+.idea/*
+secrets.txt
+data
+__pycache__

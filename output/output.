@@ -1,0 +1,22 @@
+```
+test_case_name,test_case_description
+TC01,Verify that the VR application launches successfully on various supported VR headsets.
+TC02,Check the accuracy of the speech recognition engine in quiet environments.
+TC03,Test speech recognition accuracy with different user accents.
+TC04,Assess the NLP module's ability to provide grammatical corrections.
+TC05,Measure the response time of the AI conversation partner.
+TC06,Evaluate the realism and adaptability of the AI conversation partner.
+TC07,Verify the ability to select and load pre-designed scenarios.
+TC08,Test for correct ambient sound playback corresponding to the selected VR environment.
+TC09,Check the application's user interface responsiveness within the VR environment.
+TC10,Ensure real-time feedback is appropriately displayed during conversations.
+TC11,Confirm the post-scenario summary provides accurate and useful feedback.
+TC12,Test the VR environment's visual quality and loading times.
+TC13,Verify compatibility with the main language learning application.
+TC14,Assess the ease of importing recorded dialogues into the VR feature.
+TC15,Examine the VR interaction for natural conversational flow, including pauses and filler words.
+TC16,Validate user account login functionality within the VR environment.
+TC17,Verify scenario creation tools are accessible and functional.
+TC18,Ensure that user progress tracking and reporting are accurately updated.
+TC19,Check the VR feature's ability to handle multiple user profiles.
+TC20,Assess the impact of background noise on speech
