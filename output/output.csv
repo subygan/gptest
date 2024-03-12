@@ -1,0 +1,53 @@
+```
+test_case_name, test_case_description
+test_case_001, Verify that the homepage loads correctly without any broken elements or missing images
+test_case_002, Ensure that the 'Meal Preferences' widget is visible and functional on the map view
+test_case_003, Check that the 'Sign Up' page can be accessed and contains options to register with email, Facebook, and Google+
+test_case_004, Confirm that the search functionality returns appropriate results given a starting point and destination
+test_case_005, Test the responsiveness of the map when different filters under 'Meal Preferences' are applied
+test_case_006, Validate the slider interaction for 'Price range' under 'Meal Preferences' changes the results accordingly
+test_case_007, Check that the 'Distance to travel from Location' slider correctly adjusts the search radius on the map
+test_case_008, Ensure that the review filter correctly filters the establishments based on the selected star rating
+test_case_009, Verify that the map updates in real time with the applied filters without crashing or stalling
+test_case_010, Ensure that clicking a marker on the map opens a popup with detailed information about the establishment
+test_case_011, Confirm that the 'Save Trip by Login in' feature prompts the user to log in with proper authentication flow
+test_case_012, Test the ability to send directions to the user's phone from the trip summary card
+test_case_013, Validate that the trip details provide accurate and comprehensive information (time, distance, route)
+test_case_014, Ensure that the 'Meal Preferences' selections can be reset to default with a reset or clear button
+test_case_015, Test that the correct number of adult passengers can be selected in the 'Profile' section
+test_case_016, Validate the upper and lower limit for the number of seniors (65+) in the 'Profile' section
+test_case_017, Check that the youth (12-17) counter increments and decrements correctly and has appropriate limits
+test_case_018, Confirm that adding a 'Child' (2-11) updates the total headcount and is limited correctly
+test_case_019, Verify that the infant seat selection is functioning and enforce a reasonable limit
+test_case_020, Check for proper error messages when trying to input invalid data in the 'Profile' section
+test_case_021, Ensure that the user can switch between 'Map' and 'Satellite' view seamlessly
+test_case_022, Test that the maps zoom in/out functionality works without glitches or delays
+test_case_023, Confirm that the location search feature within the map provides accurate results
+test_case_024, Validate the robustness of the authentication flow when a user attempts to save a trip
+test_case_025, Check that the meal type dropdown contains all the options and that each option returns the correct results
+test_case_026, Test if the application retains the applied filters on the map when a user navigates away and returns to the map
+test_case_027, Confirm that the price range slider has proper minimum and maximum limits
+test_case_028, Verify that the user can set a specific distance for the 'Distance to travel from Location' feature
+test_case_029, Ensure that filtering by 'Reviews' returns only those locations with the selected number of stars or higher
+test_case_030, Check that the application correctly calculates and displays the route on the map after a search
+test_case_031, Confirm that the user can create a profile without errors or hiccups
+test_case_032, Ensure that the meal preferences can be customized with multiple meal types selected simultaneously
+test_case_033, Verify the functionality of the sorting feature, arranging establishments from nearest to furthest
+test_case_034, Check the successful sign-up process with proper validation for email format and password strength
+test_case_035, Validate the login system with correct and incorrect credentials to ensure security
+test_case_036, Test for cross-browser compatibility of the new feature on Chrome, Firefox, Safari, and Edge
+test_case_037, Ensure the application's UI adjusts correctly when viewed on mobile devices and tablets (responsiveness)
+test_case_038, Confirm that the user receives a confirmation email after signing up
+test_case_039, Verify the password reset functionality when a user forgets their password
+test_case_040, Test that the user's selected preferences are saved in their profile after logging out and back in
+test_case_041, Confirm that the map markers correspond with the right establishments in the list view (if applicable)
+test_case_042, Validate that users can share their trip details via social media or email with the correct permissions
+test_case_043, Check that loading times for map search results are within acceptable timeframes
+test_case_044, Verify that the terms of use and privacy policy are accessible and up to date
+test_case_045, Ensure that all interactive elements on the map (e.g., zoom buttons, view switch) have proper accessibility labels
+test_case_046, Confirm that you can navigate through the 'Meal Preferences' options using keyboard shortcuts for accessibility
+test_case_047, Validate that the autocomplete feature for address input fields provides correct suggestions
+test_case_048, Test the feature to "Save Trip" for logged-in users, ensuring the trip gets added to their account without issues
+test_case_049, Ensure that there are no duplicate entries of restaurants/establishments for the same filters applied
+test_case_050, Validate the performance and stability of the map when zoomed in to the maximum level and fully interacted with
+```
