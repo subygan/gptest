@@ -1,0 +1,55 @@
+test_case_name,test_case_description
+VR_Scenario_Selection_001,Verify that the VR environment correctly loads a pre-designed scenario.
+VR_Scenario_Selection_002,Verify that the user can scroll through and select from a list of scenarios.
+VR_Scenario_Selection_003,Validate that the VR environment displays an error when an invalid scenario is selected.
+VR_Scenario_Selection_004,Verify custom scenario creation with valid recorded dialogue.
+VR_Scenario_Selection_005,Test loading times for scenario selection on various devices.
+VR_Environment_Visuals_001,Ensure that visuals match the selected scenario (coffee shop, airport, etc.).
+VR_Environment_Visuals_002,Verify visual quality and resolution in the VR environment.
+VR_Environment_Visuals_003,Check for visual glitches or artifacts within the environment.
+VR_Environment_Sounds_001,Confirm that ambient sounds are appropriate for the selected scenario.
+VR_Environment_Sounds_002,Verify volume control of ambient sounds within the VR environment.
+VR_AI_Conversation_001,Test AI conversation partner's response accuracy to predefined inputs.
+VR_AI_Conversation_002,Verify AI conversation partner's adaptability to changing user skill levels.
+VR_AI_Conversation_003,Ensure that the AI conversation partner can handle unexpected user inputs.
+VR_AI_Conversation_004,Measure response time of AI conversation partner.
+VR_AI_Conversation_005,Check for natural conversational flow with AI, including pauses and interjections.
+Feedback_Mechanism_RealTime_001,Validate visual cues for pronunciation errors during conversations.
+Feedback_Mechanism_RealTime_002,Confirm audio cues are audible and clear for grammatical mistakes.
+Feedback_Mechanism_RealTime_003,Test for the timing and accuracy of real-time feedback during dialogues.
+Feedback_Mechanism_Summary_001,Review post-scenario summary for comprehensive feedback.
+Feedback_Mechanism_Summary_002,Verify that the report highlights user's strengths and weaknesses accurately.
+VR_Headset_Compatibility_001,Ensure feature works with Oculus Quest headset.
+VR_Headset_Compatibility_002,Test compatibility with HTC Vive.
+VR_Headset_Compatibility_003,Check feature performance on different VR headset models.
+Speech_Recognition_Accuracy_001,Verify speech recognition efficiency with various accents.
+Speech_Recognition_Accuracy_002,Test speech recognition in noisy environments.
+NLP_Module_Efficiency_001,Check for correct grammatical analysis in NLP engine.
+NLP_Module_Efficiency_002,Verify vocabulary suggestions are relevant and diverse.
+Scenario_Creation_Tools_001,Ensure usability of scenario creation tools for non-technical users.
+Scenario_Creation_Tools_002,Test importing functionality for custom scenarios with recorded dialogues.
+Progress_Tracking_001,Verify accurate tracking of conversational accuracy metrics.
+Progress_Tracking_002,Check the progress report for vocabulary acquisition over time.
+Progress_Tracking_003,Validate fluency score calculations with varied user data.
+Integration_Main_App_001,Test seamless integration with the existing language learning app.
+Integration_Main_App_002,Confirm data synchronization between the main app and VR feature.
+Custom_Scenario_Advanced_001,Test advanced custom scenario creation with multiple dialogues.
+Custom_Scenario_Advanced_002,Check if scenarios can integrate with real-world current events.
+VR_Environment_Control_001,Ensure user has control over VR environment settings.
+VR_Environment_Control_002,Test user ability to customize environmental factors (time of day, weather).
+AI_Conversation_NonVerbal_001,Test AI's ability to include non-verbal cues in conversation.
+AI_Conversation_NonVerbal_002,Validate AI behavior with user's non-verbal inputs in advanced development.
+VR_Environment_Loading_001,Measure loading time for scenarios on base level hardware.
+VR_Environment_Loading_002,Confirm loading time is within acceptable limits on high-end devices.
+User_Experience_Design_001,Ensure user interface is intuitive and easy to navigate.
+User_Experience_Design_002,Test user feedback on clarity of instructions within the VR environment.
+Early_Release_Limitations_001,Check user understanding of initial release's core scenario limitations.
+Early_Release_Limitations_002,Verify adequate user communication regarding future feature expansions.
+Speech_Recognition_Dialects_001,Test for speech recognition accuracy across various English dialects.
+Speech_Recognition_Dialects_002,Benchmark speech recognition performance for non-native speakers.
+Feedback_Mechanism_Details_001,Confirm that the feedback mechanism addresses specific language details.
+Feedback_Mechanism_Details_002,Test if the feedback provides constructive and actionable advice.
+Monetization_Strategy_001,Prepare test cases for potential in-app purchases within the VR feature.
+Monetization_Strategy_002,Validate user acceptance of subscription models for full feature access.
+Success_Metrics_Reporting_001,Check for accurate reporting features measuring user success metrics.
+Success_Metrics_Reporting_002,Ensure comprehensive data visualization for user progress in reports.
